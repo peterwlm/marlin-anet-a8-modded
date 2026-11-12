@@ -16,6 +16,7 @@
 # Binary files
 *.png binary
 *.jpg binary
+*.webp binary
 *.fon binary
 *.bin binary
 *.woff binary
